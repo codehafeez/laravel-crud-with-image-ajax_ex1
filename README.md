@@ -10,11 +10,16 @@
 
 ```bash
 php artisan serve
+
+http://127.0.0.1:8000/student
 ```    
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex1/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex1/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex1/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-crud-with-image-ajax_ex1/main/Screenshots/Output-04.png)
 
 
 ## 🔗 www.codehafeez.com
